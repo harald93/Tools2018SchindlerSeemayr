@@ -4,6 +4,7 @@ help, i need to learn nwt
                               public void thisIsANewMethod(){
                                   hahafunlinevondave
                                   print("wanna go home now");
+                                  print("lulu")
                               }
                               
 public void thisIsAnotherMethod(){
