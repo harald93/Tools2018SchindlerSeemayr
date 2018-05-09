@@ -7,4 +7,8 @@
 
 \f0\fs24 \cf0 some.dummy.code(\'84help, i need to learn nwt\'93);}
 
+
                               public void thisIsANewMethod(){ }
+
+                              
+hab angst vor nwt lol
