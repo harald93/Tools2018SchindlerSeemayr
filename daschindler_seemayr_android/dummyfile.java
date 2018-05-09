@@ -6,6 +6,7 @@ help, i need to learn nwt
                                   print("wanna go home now");
                                   fix the bug;
                                   fix the bug 2;
+                                  fix the bug 3;
                               }
 
                               
