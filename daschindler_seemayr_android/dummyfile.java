@@ -5,6 +5,11 @@ help, i need to learn nwt
                                   hahafunlinevondave
                                   print("wanna go home now");
                               }
+                              
+public void thisIsAnotherMethod(){
+                                  hahafunlinevondave
+                                  print("wanna go home now again");
+                              }
 
                               
 hab angst vor nwt lol
