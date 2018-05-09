@@ -8,7 +8,9 @@
 \f0\fs24 \cf0 some.dummy.code(\'84help, i need to learn nwt\'93);}
 
 
-                              public void thisIsANewMethod(){ }
+                              public void thisIsANewMethod(){
+                                  print("wanna go home now");
+                              }
 
                               
 hab angst vor nwt lol
