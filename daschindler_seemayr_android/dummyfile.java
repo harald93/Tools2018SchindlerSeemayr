@@ -10,6 +10,7 @@
 
                               public void thisIsANewMethod(){
                                   hahafunlinevondave
+                                  print("wanna go home now");
                               }
 
                               
